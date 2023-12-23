@@ -24,12 +24,12 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
                 window.open('https://github.com');
             }
         },
-        'telegram': {
-            'label': 'Telegram',
-            'icon': 'fa fa-telegram',
+        'linkedin': {
+            'label': 'LinkedIn',
+            'icon': 'fa fa-linkedin',
             'onClick': function(e) {
                 e.preventDefault();
-                window.open('https://t.me');
+                window.open('https://linkedin.com');
             }
         },
         'google': {

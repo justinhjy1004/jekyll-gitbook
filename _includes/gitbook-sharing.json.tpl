@@ -1,7 +1,9 @@
             "sharing": {
-                "facebook": true,
+                "facebook": false,
 
                 "google": false,
+
+                "linkedin": true,
 
                 "github": true,
               {% if site.github_username %}
@@ -24,5 +26,4 @@
 
                 "weibo": false,
 
-                "all": ["facebook", "google", "twitter", "weibo", "instapaper", "github", "telegram"]
             },
