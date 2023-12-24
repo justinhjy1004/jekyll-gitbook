@@ -1,4 +1,4 @@
-_site/
-_draft/
+./_site/
+./_draft/
 .jekyll-cache/
 *.sh
