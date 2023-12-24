@@ -9,7 +9,7 @@
               {% if site.github_username %}
                 "github_link": "https://github.com/{{ site.github_username }}",
               {% else %}
-                "github_link": "https://github.com",
+                "github_link": "https://github.com/justinhjy1004",
               {% endif %}
 
                 "telegram": false,

@@ -29,7 +29,7 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
             'icon': 'fa fa-linkedin',
             'onClick': function(e) {
                 e.preventDefault();
-                window.open('https://linkedin.com');
+                window.open('https://www.linkedin.com/in/justin-jy-ho/');
             }
         },
         'google': {

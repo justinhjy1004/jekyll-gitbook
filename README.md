@@ -4,8 +4,10 @@ title: About This Page
 permalink: /
 ---
 
-I intend to have this page as a way to showcase the things I have done in work, but also to document my life, at least for things that I care about to share. 
+I intend to have this page as a way to showcase my professional life, but also to document my life, at least for things that I am ready to share. 
 
-One of my goals is to continue and maintain this website. I love learning, sharing, reading and exploring the world, and sadly, this sounds like a LinkedIn post, but they are true. I am not sure if they define me per se, but I think it does cover quite a few bases.
+I hope to continue and maintain this website. I love learning, sharing, reading and exploring the world. Though this sounds like a LinkedIn post, they are nevertheless true. They don't define my entirety, nor do I know how to define myself, but I think it does cover quite a few bases.
 
-<div style="text-align: center"><img src="/assets/seoul_wtih_mum_and_sis.jpg" width="250" /></div>
+<div style="text-align: center"><img src="https://github.com/justinhjy1004/jekyll-gitbook/blob/master/assets/seoul_wtih_mum_and_sis.jpg?raw=true" width="450" /></div>
+
+That is me, with my sister and my mum in Seoul, a moment in time I wish stayed frozen. Fresh from the pain of leaving Nebraska, with the promise of Boston ahead of me, Seoul was my transit to the second act (for my twenties). That brief moment of change is weirdly what I longed for the most, and it was beautiful.
