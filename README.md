@@ -4,7 +4,7 @@ title: About This Page
 permalink: /
 ---
 
-I intend to have this page as a way to showcase my professional life, but also to document my life, at least for things that I am ready to share. 
+I intend to have this page as a "portfolio" of my professional life, but also to document my personal one, at least for things that I am ready to share. 
 
 I hope to continue and maintain this website. I love learning, sharing, reading and exploring the world. Though this sounds like a LinkedIn post, they are nevertheless true. They don't define my entirety, nor do I know how to define myself, but I think it does cover quite a few bases.
 
