@@ -14,7 +14,7 @@ These are my side projects that I have done over time. Rather proud of them, and
 
 <br>
 
-Initially started as a fun project back in UNL, exploring the great and interesting world of graph database and graph analysis. Unfortunately, a lot of that is now relegated to the side (the graph-side of things). The good thing is, I am currently working on a paper based on this analysis on the Bandwagon Effect in R&D for firms. Really excited about it and hopefully something will come out of it!
+This project was initially started as a fun project back in UNL, exploring the great and interesting world of graph database and graph analysis. Unfortunately, a lot of that is now relegated to the side (the graph-side of things). The good thing is, I am currently working on a paper based on this analysis on the Bandwagon Effect in R&D for firms. Really excited about it and hopefully something will come out of it!
 
 <div style="text-align: center">
 <a href = "https://github.com/justinhjy1004/BandwagonCPC" target="_blank" rel="noopener noreferrer">
