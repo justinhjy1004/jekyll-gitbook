@@ -286,9 +286,6 @@ pre:has(code.language-mermaid[data-processed="true"]) {
     --font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
 
-<!-- HTML !-->
-<button class="button-23" role="button">Button 23</button>
-
 /* CSS */
 .button-23 {
   background-color: #FFFFFF;
