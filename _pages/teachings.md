@@ -1,5 +1,5 @@
 ---
-title: Teachings
+title: Teaching
 author: Justin Ho
 date: 2024-01-11
 category: Jekyll
