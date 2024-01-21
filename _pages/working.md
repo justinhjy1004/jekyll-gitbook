@@ -6,7 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-<div style="text-align: center"><img src="https://github.com/justinhjy1004/jekyll-gitbook/blob/master/assets/graphs.gif?raw=true" width="500" /></div>
+<div style="text-align: center"><img src="https://github.com/justinhjy1004/justinhjy1004.github.io/blob/master/assets/FCSA_logo.png?raw=true" width="400" /></div>
 
 ### Software Developer
 *Farm Credit Services of America*
