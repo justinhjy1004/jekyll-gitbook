@@ -8,6 +8,10 @@ layout: post
 
 These are my side projects that I have done over time. Rather proud of them, and that is why they are on display, and I hope you enjoy them.
 
+### Eviction in Nebraska
+
+TODO
+
 ### Bandwagon Effect: Evidence from USPTO Data
 
 <div style="text-align: center"><img src="https://github.com/justinhjy1004/jekyll-gitbook/blob/master/assets/graphs.gif?raw=true" width="500" /></div>
