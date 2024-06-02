@@ -6,7 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-<div style="text-align: center"><img src="https://github.com/justinhjy1004/Patient_V/blob/main/Photoshoot1.jpg?raw=true" width="250" /></div>
+<div style="text-align: center"><img src="https://github.com/justinhjy1004/jekyll-gitbook/blob/master/assets/Photoshoot1.jpg?raw=true" width="250" /></div>
 
 <br>
 
