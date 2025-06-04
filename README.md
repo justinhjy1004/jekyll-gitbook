@@ -4,9 +4,19 @@ title: About This Page
 permalink: /
 ---
 
+<center><strong><em>Hat man sein Warum? des Lebens, so verträgt man sich fast mit jedem Wie? — Friedrich Nietzsche</em></strong></center>
+
+<br>
+
 I intend to have this page as a "portfolio" of my professional life, but also to document my personal one, at least for things that I am ready to share. 
 
 I hope to continue and maintain this website. I love learning, sharing, reading and exploring the world. Though this sounds like a LinkedIn post, they are nevertheless true. They don't define my entirety, nor do I know how to define myself, but I think it does cover quite a few bases.
+
+*Summer of 2025*
+
+TODO
+
+*Summer of 2023*
 
 <div style="text-align: center"><img src="https://github.com/justinhjy1004/jekyll-gitbook/blob/master/assets/seoul_wtih_mum_and_sis.jpg?raw=true" width="450" /></div>
 
