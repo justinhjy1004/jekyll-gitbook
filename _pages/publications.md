@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications and Working Papers
 author: Justin Ho
 date: 2023-12-24
 category: Jekyll
