@@ -6,13 +6,13 @@ category: Jekyll
 layout: post
 ---
 
-##### Economics 
+##### Statistics / Causal Inference 
 
-Ho, Justin; and Min, Jonathan. **"Causal Inference in Counterbalanced Within-Subjects Designs."** *arXiv preprint*, arXiv:2505.03937 [stat.ME], May 6, 2025. [https://arxiv.org/abs/2505.03937](https://arxiv.org/abs/2505.03937)
+**Ho, Justin**; and Min, Jonathan. **"Causal Inference in Counterbalanced Within-Subjects Designs."** *arXiv preprint*, arXiv:2505.03937 [stat.ME], May 6, 2025. [https://arxiv.org/abs/2505.03937](https://arxiv.org/abs/2505.03937)
 
-##### Statistics
+##### Economics
 
-Ho, Justin; and Mann, Christopher Ryan. **"The Bandwagon Effect: Firm Choice and Selection in Research & Development."** *SSRN Working Paper*, May 13, 2024. [https://ssrn.com/abstract=4826211](https://ssrn.com/abstract=4826211)
+**Ho, Justin**; and Mann, Christopher Ryan. **"The Bandwagon Effect: Firm Choice and Selection in Research & Development."** *SSRN Working Paper*, May 13, 2024. [https://ssrn.com/abstract=4826211](https://ssrn.com/abstract=4826211)
 
 
 ##### Computer Science
