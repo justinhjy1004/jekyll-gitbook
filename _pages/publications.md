@@ -6,10 +6,6 @@ category: Jekyll
 layout: post
 ---
 
-<div style="text-align: center"><img src="https://github.com/justinhjy1004/jekyll-gitbook/blob/master/assets/dinosaur.gif?raw=true" /></div>
-
-<br>
-
 ##### Working Papers
 
 Ho, Justin; and Min, Jonathan. **"Causal Inference in Counterbalanced Within-Subjects Designs."** *arXiv preprint*, arXiv:2505.03937 [stat.ME], May 6, 2025. [https://arxiv.org/abs/2505.03937](https://arxiv.org/abs/2505.03937)
@@ -24,3 +20,5 @@ Ho, Justin; Colby, Alexandra; and Fisher, William. **"Incorporating Legal Struct
 <br>
 
 Ayoubi, Charles; Boussioux, Leonard; Chen, YingHao; Ho, Justin; Jackson, Katherine; Lane, Jacquelin; Lin, Camila; and Spens, Rebecca. **"The Narrative AI Advantage? A Field Experiment on Generative AI-Augmented Evaluations of Early-Stage Innovations."** *ICIS 2024 Proceedings*, Paper 2, 2024. [https://aisel.aisnet.org/icis2024/aiinbus/aiinbus/2](https://aisel.aisnet.org/icis2024/aiinbus/aiinbus/2)
+
+<div style="text-align: center"><img src="https://github.com/justinhjy1004/jekyll-gitbook/blob/master/assets/dinosaur.gif?raw=true" /></div>
