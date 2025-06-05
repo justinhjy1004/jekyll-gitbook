@@ -6,14 +6,14 @@ category: Jekyll
 layout: post
 ---
 
-##### Working Papers
+##### Economics and Statistics
 
 Ho, Justin; and Min, Jonathan. **"Causal Inference in Counterbalanced Within-Subjects Designs."** *arXiv preprint*, arXiv:2505.03937 [stat.ME], May 6, 2025. [https://arxiv.org/abs/2505.03937](https://arxiv.org/abs/2505.03937)
 
 Ho, Justin; and Mann, Christopher Ryan. **"The Bandwagon Effect: Firm Choice and Selection in Research & Development."** *SSRN Working Paper*, May 13, 2024. [https://ssrn.com/abstract=4826211](https://ssrn.com/abstract=4826211)
 
 
-##### Conference Papers
+##### Computer Science
 
 Ho, Justin; Colby, Alexandra; and Fisher, William. **"Incorporating Legal Structure in Retrieval-Augmented Generation: A Case Study on Copyright Fair Use."** *Proceedings of the Seventh Workshop on Automated Semantic Analysis of Information in Legal Text (ASAIL 2025)*, June 16, 2025, Chicago, USA. (Accepted as Full Paper) [arXiv](https://arxiv.org/abs/2505.02164)
 
