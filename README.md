@@ -14,7 +14,11 @@ I hope to continue and maintain this website. I love learning, sharing, reading 
 
 *Summer of 2025*
 
-TODO
+I am not sure how I will see the Summer of 2025. As it has ended, it was simultaneously filled with the joy of traveling with my family to both London, and Vienna, and soon after a tour around Malaysia and Thailand with my Neinei. A trip that I will never forget from the love that I have from all of them, and the separation that soon followed that left me bereft of a sense of purpose and direction.
+
+I really miss you Neinei. You have been such an encompassing part of my last two years in Boston, and I know we will always be in touch, but things are no longer the same. We can only move on, and live our respective lives to the fullest in honour of the care we have for each other. The hardest part of leaving Boston is that I had to leave you too, and I am really sorry.
+
+But I know you will come to achieve great things. And the time that I had with you will always be with me. 
 
 *Summer of 2023*
 
